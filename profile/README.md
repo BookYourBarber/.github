@@ -98,12 +98,12 @@ When you clone it, your file tree should look like this:
 
 
 ```
-Before you start the application you should there is two things you should set.
+Before you start the application, you should set two things.
 
-1. You should go to every folder you should run ```npm install``` so you install required dependencies
-2. You have to add ```.env``` file in ```frontend_customer``` and set ***google maps API key*** so application can work. Follow the instructions [here](https://github.com/BookYourBarber/bub_customer_frontend) 
+1. You should go to every folder you should run ```npm install``` so you install the required dependencies
+2. You have to add ```.env``` file in ```frontend_customer``` and set ***google maps API key*** so application can work. Follow the instructions [here](https://github.com/BookYourBarber/bub_customer_frontend#readme) 
 
 
 
-Go to root folder and run docker compose up --build in your terminal.
-The frontend application is now available on deafult port http://localhost:3000
+Go to the root folder and run docker-compose up --build in your terminal.
+The frontend application is now available on default port http://localhost:3000
